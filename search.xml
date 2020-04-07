@@ -6,7 +6,7 @@
     <content><![CDATA[<h1 id="1、常见站点系统架构演变"><a href="#1、常见站点系统架构演变" class="headerlink" title="1、常见站点系统架构演变"></a>1、常见站点系统架构演变</h1><h2 id="单站点架构"><a href="#单站点架构" class="headerlink" title="单站点架构"></a>单站点架构</h2><p><img src="https://raw.githubusercontent.com/guangyutang/cloudimg/master/img/20200407170057.png" alt="单站点"></p>
 <h2 id="多机架构"><a href="#多机架构" class="headerlink" title="多机架构"></a>多机架构</h2><p><img src="https://raw.githubusercontent.com/guangyutang/cloudimg/master/img/20200407172306.png" alt="多机"></p>
 <h2 id="缓存"><a href="#缓存" class="headerlink" title="缓存"></a>缓存</h2><p><img src="https://raw.githubusercontent.com/guangyutang/cloudimg/master/img/20200407172535.png" alt="缓存"></p>
-<h2 id="向外扩展"><a href="#向外扩展" class="headerlink" title="向外扩展"></a>向外扩展</h2><p><img src="https://raw.githubusercontent.com/guangyutang/cloudimg/master/img/20200407172811.png" alt="向外扩展"></p>
+<h2 id="向外扩展"><a href="#向外扩展" class="headerlink" title="向外扩展"></a>向外扩展</h2><p><img src="https://raw.githubusercontent.com/guangyutang/cloudimg/master/img/20200407174314.png" alt="向外扩展"></p>
 ]]></content>
       <categories>
         <category>Linux</category>
